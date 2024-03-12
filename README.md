@@ -46,7 +46,13 @@ GIF created with **ScreentoGif**
 
 ## Notes
 
-
+- **Layout Management:** Utilized ConstraintLayout for dynamic positioning and resizing of UI components.
+- **Theme and Colors:** Implemented a dark theme with Spotify's color scheme, enhancing user experience and brand consistency.
+- **UI Components:** Included a TextView for login messages, EditText inputs for credentials, a login Button, and an ImageView for the Spotify logo.
+- **Color Resources:** Used custom colors (spotify_black_dark, spotify_black_light, spotify_gray_light, white) for UI styling, emphasizing color management.
+- **Constraints Usage:** Demonstrated the use of layout_constraint attributes for relative positioning, showcasing ConstraintLayout flexibility.
+- **Cursor Customization:** Applied android:textCursorDrawable="@null" in EditText for cursor appearance customization.
+- **Design-time Attributes:** Showcased tools:layout_editor_* attributes for visual editing in Android Studio's Layout Editor.
 
 ## License
 
